@@ -23,7 +23,7 @@ For the last task, we implemented a simple game where cubes fall from the top of
 
 As there are more white squares than the agent can collect, the agent must not only learn to collect the white squares but also learn which ones to collect to maximizefuture rewards. The state-representation consists of a 10x10 pixel matrix where 0 represents a blackpixel and 255 for a white pixel. An example video can be found [here](https://youtu.be/P1GFhcgVdV8).
 
-[1] Richard S Sutton and Andrew G Barto.Reinforcement learning: An introduction.MIT press, 2018.
+[1] Richard S Sutton and Andrew G Barto.Reinforcement learning: An introduction.MIT press, 2018.  
 [2] Sridhar Mahadevan,  Nicholas Marchalleck,  Tapas K Das,  and Abhijit Gosavi.Self-improving  factory  simulation  using  continuous-time  average-reward  rein-forcement learning.  In MACHINE LEARNING-INTERNATIONAL WORKSHOPTHEN CONFERENCE-, pages 202–210. MORGAN KAUFMANN PUBLISH-ERS, INC., 1997.
 
 # Usage
