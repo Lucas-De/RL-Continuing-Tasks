@@ -1,3 +1,3 @@
 # RL-Continuing-Tasks
 
-![](task3.gif)
+![](example.jpg)
