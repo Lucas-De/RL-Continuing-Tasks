@@ -34,7 +34,7 @@ The code below initialises the environement for task 3 and takes random steps in
 import random
 from task3 import task3
 
-Env=Env=task3(render=False) #render=True to enable vizualisation
+Env=task3(render=False) #render=True to enable vizualisation
 
 while True:
   action= random.randint(0,2)
